@@ -10,6 +10,7 @@ public class Naad_Quiz1 {
   
     public static void main(String[] args) {
         System.out.println("Hello World Uwu");
+        System.out.println("Wa man lagi nausab T_T");
     }
     
 }
